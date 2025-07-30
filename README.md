@@ -1,6 +1,6 @@
-# GADZOO - Technology Redefined
+# IZONE - Technology Redefined
 
-A modern e-commerce website for GADZOO, featuring premium audio speakers, earphones, watches, and other technology gadgets.
+A modern e-commerce website for IZONE, featuring premium audio speakers, earphones, watches, and other technology gadgets.
 
 ## 🚀 Features
 
